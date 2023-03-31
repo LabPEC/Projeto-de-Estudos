@@ -8,7 +8,7 @@ Caso esteja interessado em escrever um projeto de estudos para iniciar seus trab
 
 ## Programação
 ### Linux
-Caso esteja interessado em criar um ambiente de programação Python para desenvolvimento de código de análise de dados e executar o exemplo disponível, você encontrará todas as instruções [aqui](https://github.com/LabPEC/Modelo/blob/main/Linux/INSTALL.md)
+Caso esteja interessado em criar um ambiente de programação LINUX Python para desenvolvimento de código de análise de dados e executar o exemplo disponível, você encontrará todas as instruções [aqui](https://github.com/LabPEC/Modelo/blob/main/Linux/INSTALL.md)
 
 ### Windows
-Caso esteja interessado em criar um ambiente de programação Python para desenvolvimento de código de análise de dados e executar o exemplo disponível, você encontrará todas as instruções aqui (ainda não disponível).
+Caso esteja interessado em criar um ambiente de programação Windows Python para desenvolvimento de código de análise de dados e executar o exemplo disponível, você encontrará todas as instruções aqui (ainda não disponível).
