@@ -7,4 +7,4 @@ Esta pasta contém os documentos utilizados nos seus estudos e para a construç�
 Esta ṕasta contém todos os arquivos fontes necessários para a produção da monografia como texto principal, figuras, tabelas, etc.
 
 ## Projeto
-Esta pasta contém todos os arquivos fontes necessários para a produção da monografia como texto principal, figuras, tabelas, etc.
+Esta pasta contém todos os arquivos fontes necessários para a produção do projeto de estudos como texto principal, figuras, tabelas, etc.
