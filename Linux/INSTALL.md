@@ -110,3 +110,14 @@ Next, activate the `Mod` environment:
 Lastly, we start Jupyter:
 
     $ jupyter notebook
+
+After you change files and directories and if you are not working in colaboration, you must save your changes and update your repository commiting directly to the `main` branch.  to avoid future conflicts:
+
+    $ git status
+    $ git add -A
+    $ git status
+    $ git commit -a -m "message"
+    $ git push
+
+
+
