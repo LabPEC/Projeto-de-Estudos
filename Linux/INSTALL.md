@@ -116,7 +116,7 @@ After you change files and directories and if you are not working in colaboratio
     $ git status
     $ git add -A
     $ git status
-    $ git commit -a -m "message"
+    $ git commit -a -m "your message here"
     $ git push
 
 
