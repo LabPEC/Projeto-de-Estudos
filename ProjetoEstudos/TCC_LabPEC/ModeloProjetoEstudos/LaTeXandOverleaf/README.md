@@ -10,4 +10,4 @@ Ou utilizar a plataforma [Overleaf](https://www.overleaf.com) seguindo essas [or
 
 Caso escolha o Overleaf, você pode usar esse [link](https://www.overleaf.com/read/gmpdsmsdhqkn) para ter acesso ao `ModeloProjetoEstudosTCC` e fazer uma cópia para você.
 
-Ou, em todo caso, utilizar o [arquivo](ModeloProjetoEstudosTCC.zip) 
+Ou, em todo caso, utilizar o [ModeloProjetoEstudosTCC.zip](ModeloProjetoEstudosTCC.zip) disponível nessa pasta.
