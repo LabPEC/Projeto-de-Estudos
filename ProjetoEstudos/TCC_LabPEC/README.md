@@ -11,4 +11,4 @@ Após a aprovação do Projeto de Estudos, o aluno terá as seguintes obrigaçõ
 - os artefatos produzidos só serão considerados quando disponibilizados no repositório Github do LabPEC
 - a produção considerada deve estar de acordo com o Projeto de Estudos e seu cronograma
 
-Caso queira apresentar um Projeto de  Estudos ao LabPEC siga as instruções contidas [aqui](ProjetoEstudos/TCC_LabPEC/ModeloProjetoEstudos)
+Caso queira apresentar um Projeto de  Estudos ao LabPEC siga as instruções contidas [aqui](ProjetoEstudos/TCC_LabPEC/ModeloProjetoEstudos/README.md)
