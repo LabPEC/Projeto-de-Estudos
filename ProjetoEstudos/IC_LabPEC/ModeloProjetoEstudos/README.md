@@ -23,7 +23,7 @@ Para construir a primeira versão do seu Projeto de Estudos você deve seguir os
 
 2. Ler cuidadosamente o documento `ModeloProjetoEstudosIC_LabPEC`
 
-3. Ler os documentos `ModeloProjetoEstudos_Exemplo01.docx`, `ModeloProjetoEstudos_Exemplo01.docx` e `ModeloProjetoEstudos_Exemplo03.pdf` da pasta `Exemplos` e verificar como as instruções do documento `ModeloProjetoEstudosTCC` foram transformadas em texto.
+3. Ler os documentos `ModeloProjetoEstudos_Exemplo01.docx`, `ModeloProjetoEstudos_Exemplo01.docx` e `ModeloProjetoEstudos_Exemplo03.pdf` da pasta `Exemplos` e verificar como as instruções do documento `ModeloProjetoEstudosIC_LabPEC` foram transformadas em texto.
 
 4. A partir do modelo, salvar um documento `ModeloProjetoEstudosIC_LabPEC_SEUNOME`
 
