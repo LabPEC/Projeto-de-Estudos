@@ -8,7 +8,7 @@ O PIIC da UFES é dividido em dois subprogramas: o Programa Institucional de Bol
 
 O PIIC da UFES exige, entre outras coisas, a elaboração do Subprojeto de Pesquisa no âmbito do Programa Institucional de Iniciação Científica (PIIC) da UFES. Todos os modelos e instruções devem seguir rigorosamente o que é instruído no [edital](https://prppg.ufes.br/ultimos-editais-iniciacao-cientifica) em aberto.
 
-Nas pastas que compôem esse tópico, estão disponibilizados os modelos do Edital 2023/2024. Caso haja um edital mais novo, todo o material aqui disponpivel deve ser conferido com o material disponível na página do [Programa Institucional de IC (PIIC)](https://prppg.ufes.br/programa-institucional-de-ic-piic).
+Nas pastas que compôem esse tópico, estão disponibilizados os modelos do Edital 2023/2024. Caso haja um edital mais novo, todo o material aqui disponibilizado deve ser conferido com o material disponível na página do [Programa Institucional de IC (PIIC)](https://prppg.ufes.br/programa-institucional-de-ic-piic).
 
 
 Após a aprovação do Subprojeto de Pesquisa PIIC, o aluno terá as seguintes obrigações junto ao LabPEC:
