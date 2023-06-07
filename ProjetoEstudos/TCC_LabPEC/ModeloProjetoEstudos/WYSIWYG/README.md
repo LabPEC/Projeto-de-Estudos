@@ -1,14 +1,11 @@
-# TCC
+# Projeto de Estudos TCC-LabPEC usando WYSIWYG
 
-O Trabalho de Conclusão de Curso (TCC) deve ser desenvolvido pelo aluno em acordo com as normas do curso ao qual o TCC será submetido e defendido.
-Dessa forma, cabe ao aluno procurar e apresentar ao LabPEC/orientador(es) as normas exigidas pelo curso associado.
+> *Se você ainda está em dúvida de usar o LaTeX/Overleaf, lei o [arquivo](LaTeXandOverleaf/Fonseca_2020.pdf) com instruções iniciais e motivacionais para utilização do LaTeX e Overleaf.*
 
-Independente das normas do curso, o LabPEC exige, como primeiro passo para a construção do TCC, a confecção pelo aluno de um Projeto de Estudos.
-O Projeto de Estudos deve seguir rigorosamente o modelo disponível e deve ser submetido e aprovado pelo(s) orientador(es) escolhidos pelo aluno dentro do quadro de professores do LabPEC.
+Esta pasta contém todos os arquivos fontes necessários para a produção do Projeto de Estudos de TCC usando o editor WYSIWYG de sua preferência. Por exemplo:
 
-Após a aprovação do Projeto de Estudos, o aluno terá as seguintes obrigações junto ao LabPEC:
-- reuniões semanais e presenciais com o(s) orientador(es)
-- os artefatos produzidos só serão considerados quando disponibilizados no repositório Github do LabPEC
-- a produção considerada deve estar de acordo com o Projeto de Estudos e seu cronograma
+* Use o Word da Microsoft para abrir e editar um dos arquivos `.docx` ou `.doc`ou `.rtf`
+* Uso Writer do Libreoffice para abrir e editar um dos arquivos `.odt` ou `.rtf` ou `.docx` ou `.doc`
 
-Caso queira apresentar um Projeto de  Estudos ao LabPEC siga as instruções contidas [aqui](ModeloProjetoEstudos/README.md)
+Caso opte pelo editor WYSIWYG a formatação do documento estará sob sua inteira responsabilidade. 
+
