@@ -1,10 +1,11 @@
-# TCC-LabPEC
+# IC-LabPEC
 
-O Trabalho de Conclusão de Curso (TCC) deve ser desenvolvido pelo aluno em acordo com as normas do curso ao qual o TCC será submetido e defendido.
-Dessa forma, cabe ao aluno procurar e apresentar ao LabPEC/orientador(es) as normas exigidas pelo curso associado.
+A Iniciação Científica no LabPEC (IC-LabPEC) deve ser desenvolvido pelo aluno em acordo com o(s) orientador(es) escolhidos pelo aluno dentro do quadro de professores do LabPEC.
 
-Independente das normas do curso, o LabPEC exige, como primeiro passo para a construção do TCC, a confecção pelo aluno de um Projeto de Estudos.
-O Projeto de Estudos deve seguir rigorosamente o modelo disponível e deve ser submetido e aprovado pelo(s) orientador(es) escolhidos pelo aluno dentro do quadro de professores do LabPEC.
+A IC-LabPEC pode ser iniciada a qualquer momento e sua formalização acontece após a aprovação do projeto de estudos construído pelo aluno junto com o(s) futuro(s) orientador(es).
+
+O LabPEC exige, como primeiro passo para a construção da IC-LabPEC, a confecção pelo aluno de um Projeto de Estudos.
+O Projeto de Estudos deve seguir rigorosamente o modelo disponível e deve ser submetido e aprovado pelo(s) orientador(es) escolhidos 
 
 Após a aprovação do Projeto de Estudos, o aluno terá as seguintes obrigações junto ao LabPEC:
 - reuniões semanais e presenciais com o(s) orientador(es)
