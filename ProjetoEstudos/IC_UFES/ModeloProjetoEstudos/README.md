@@ -31,7 +31,7 @@ Para construir a primeira versão do seu Subprojeto de Pesquisa você deve segui
 5. Substituir o conteúdo instrucional pelo conteúdo do projeto sendo proposto. Para isso, você deve procurar trabalhos relacionados ao seu interesse, lê-los e inserí-los como referências no texto do seu projeto. 
    - Caso esteja trabalhando com Ciência de Dados é primordial a busca e definição de uma base de dados nessa etapa
 
-Após a revisão do Subprojeto de Pesquisa pelo orientador e finalização pelo aluno, Este será submetido ao Edital PIIC.
+Após a revisão do Subprojeto de Pesquisa pelo orientador e finalização pelo aluno, esse será submetido ao Edital PIIC.
 
 
 
