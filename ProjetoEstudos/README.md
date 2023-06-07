@@ -1,6 +1,6 @@
 # Projeto de Estudos
 
-Todo aluno que quer ingressar no LabPEC deve primeiro excrever um projeto de estudos. O projeto de estudos deve estar associado a uma das seguintes atividades:
+Todo aluno que quer ingressar no LabPEC deve primeiro escrever um projeto de estudos. O projeto de estudos deve estar associado a uma das seguintes atividades:
 - Trabalho de Conclusão de Curso (TCC-LabPEC),
 - Iniciação Científica UFES (IC-UFES),
 - Iniciação Científica LabPEC (IC-LabPEC).
