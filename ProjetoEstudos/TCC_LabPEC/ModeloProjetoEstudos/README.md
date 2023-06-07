@@ -30,7 +30,7 @@ Para construir a primeira versão do seu Projeto de Estudos você deve seguir os
 5. Substituir o conteúdo instrucional pelo conteúdo do projeto sendo proposto. Para isso, você deve procurar trabalhos relacionados ao seu interesse, lê-los e inserí-los como referências no texto do seu projeto. 
    - Caso esteja trabalhando com Ciência de Dados é primordial a busca e definição de uma base de dados nessa etapa
 
-Após a revisão e finalização do Projeto de Estudos pelo orientador, recomenda-se que um cronograma detalhado seja então apresentado (ver arquivo `Cronograma de projeto Detalhado.pdf`)
+Após a revisão do Projeto de Estudos pelo orientador e finalização pelo aluno, recomenda-se que um cronograma detalhado seja então apresentado (ver arquivo `Cronograma de projeto Detalhado.pdf`)
 
 ```diff
 - Após a revisão pelo orientador e finalização do Projeto de Estudos, o aluno estará apto a criar seu repositório no Github e iniciar os trabalhos como aluno do LabPEC.
