@@ -14,5 +14,5 @@ Ou utilizar a plataforma [Overleaf](https://www.overleaf.com) seguindo essas [or
 
 Caso escolha o Overleaf, você pode usar esse [link](https://www.overleaf.com/read/mgcdbkvbbbhj) para ter acesso ao `ModeloProjetoEstudosTCC` e fazer uma cópia para você.
 
-Ou, em todo caso, utilizar o [ModeloProjetoEstudosIC_LabPEC.zip](ModeloProjetoEstudosIC_LabPEC.zip) disponível nessa pasta.
+Ou, em todo caso, utilizar o [ModeloProjetoEstudosIC_LabPEC.zip](ModeloProjetoEstudosIC_labPEC.zip) disponível nessa pasta.
 
