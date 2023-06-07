@@ -9,7 +9,7 @@ Ela está dividida em três subpastas: `Exemplos`, `LaTeXandOverleaf` e `WYSIWYG
 
 WYSIWYG é um termo de marketing (“What you see is what you get”) para um estilo particular de processador de texto. Sistemas WYSIWYG possuem duas características principais: você digita no formato que deseja imprimir e o que você vê na tela ao digitar/formatar é muito próximo de como seu texto será impresso.
 
-Já em um editor LaTeX você escreve o texto simples, coloca algumas marcações (negrito, itálico, etc) e referencia tudo usando alguma palavra chave (artigos do arquivo .bib, imagens de uma pasta, tabelas, seções, subseções, etc). Depois, diz em que formato quer, por exemplo, ABNT, ou duas colunas, ou formato de TCC, e o editor formata para você. 
+Já em um editor LaTeX, você escreve o texto simples, coloca algumas marcações (negrito, itálico, etc) e referencia tudo usando alguma palavra chave (artigos do arquivo .bib, imagens de uma pasta, tabelas, seções, subseções, etc). Depois, diz em que formato quer, por exemplo, ABNT, ou duas colunas, ou formato de TCC, e o editor formata para você. 
 
 `SIMPLESMENTE: É APENAS OUTRO TIPO DE ARQUIVO DE TEXTO, COMO .txt ou .md E COM UMA SINTAXE ESPECIAL.`
 
