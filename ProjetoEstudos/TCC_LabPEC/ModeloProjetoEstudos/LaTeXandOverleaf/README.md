@@ -14,4 +14,4 @@ Caso escolha o Overleaf, você pode usar esse [link](https://www.overleaf.com/re
 
 Ou, em todo caso, utilizar o [ModeloProjetoEstudosTCC.zip](ModeloProjetoEstudosTCC.zip) disponível nessa pasta.
 
-Também nesta pasta encontra-se o [ModeloProjetoEstudosTCC.zip](Fonseca 2020 Introdução ao LaTeX e como iniciar um novo projeto no Overleaf.pdf) com instruções iniciais e motivacionais para utilização do LaTeX e Overleaf.
+Também nesta pasta encontra-se o [arquivo](Fonseca_2020) com instruções iniciais e motivacionais para utilização do LaTeX e Overleaf.
