@@ -1,2 +1,5 @@
-# Monografia
-Esta ṕasta contém todos os arquivos fontes necessários para a produção da monografia como texto principal, figuras, tabelas, etc.
+# Exemplos de monografia de TCC
+
+Esta pasta contém dois exemplos de monografias de TCC defendidas por alunos do LabPEC.
+
+Uma das monografias foi originada a partir de um dos exemplos de Projetos de Estudos disponível. Tente identificá-lo!
