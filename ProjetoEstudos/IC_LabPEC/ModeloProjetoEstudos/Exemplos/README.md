@@ -1,4 +1,4 @@
-# Exemplos de Projeto de Estudos TCC-LabPEC
+# Exemplos de Projeto de Estudos IC-LabPEC
 
 Esta pasta contém três exemplos de Projetos de Estudos. Os exemplos de Projetos de Estudos foram escritos por colegas no passado. Servem como uma inspiração, mas sempre podem ser melhorados. Sendo assim, leia com atenção os exemplos e tente construir algo parecido e aperfeiçoado.
 
