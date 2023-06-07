@@ -1,4 +1,4 @@
-# TCC
+# TCC-LabPEC
 
 O Trabalho de Conclusão de Curso (TCC) deve ser desenvolvido pelo aluno em acordo com as normas do curso ao qual o TCC será submetido e defendido.
 Dessa forma, cabe ao aluno procurar e apresentar ao LabPEC/orientador(es) as normas exigidas pelo curso associado.
