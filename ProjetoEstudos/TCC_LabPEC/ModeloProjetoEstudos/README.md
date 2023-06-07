@@ -24,6 +24,7 @@ Para construir a primeira versão do seu Projeto de Estudos você deve seguir os
 (3) A partir do modelo, salvar um documento `ModeloProjetoEstudosTCC_SEUNOME`
 
 (4) Substituir o conteúdo instrucional pelo conteúdo do projeto sendo proposto. Para isso, você deve procurar trabalhos relacionados ao seu interesse, lê-los e inserí-los como referências no texto do seu projeto. 
+ 
  (4.1) Caso esteja trabalhando com Ciência de Dados é primordial a busca e definição de uma base de dados nessa etapa
 
 Após a revisão e finalização do Projeto de Estudos pelo orientador, recomenda-se que um cronograma detalhado seja então apresentado (ver arquivo `Cronograma de projeto Detalhado.pdf`)
