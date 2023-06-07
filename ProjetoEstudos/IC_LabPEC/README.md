@@ -8,7 +8,7 @@ O LabPEC exige, como primeiro passo para a construção da IC-LabPEC, a confecç
 O Projeto de Estudos deve seguir rigorosamente o modelo disponível e deve ser submetido e aprovado pelo(s) orientador(es) escolhidos 
 
 Após a aprovação do Projeto de Estudos, o aluno terá as seguintes obrigações junto ao LabPEC:
-- reuniões semanais e presenciais com o(s) orientador(es)
+- reuniões semanais presenciais com o(s) orientador(es)
 - os artefatos produzidos só serão considerados quando disponibilizados no repositório Github do LabPEC
 - a produção considerada deve estar de acordo com o Projeto de Estudos e seu cronograma
 
