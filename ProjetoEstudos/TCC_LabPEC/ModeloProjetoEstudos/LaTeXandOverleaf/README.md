@@ -1,4 +1,4 @@
-# Projeto de Estudos TCC
+# Projeto de Estudos TCC-LabPEC usando LaTeX
 
 Esta pasta contém todos os arquivos fontes necessários para a produção do Projeto de Estudos de TCC usando o LaTeX ou, equivalentemente o [Overleaf](https://www.overleaf.com).
 
