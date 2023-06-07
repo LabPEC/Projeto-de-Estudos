@@ -1,10 +1,14 @@
-# Documentos
+# TCC-LabPEC
 
-## Bibliografia
-Esta pasta contém os documentos utilizados nos seus estudos e para a construção da monogragia. Geralmente, os documentos que aparecem na seção de referências da monografia/projeto podem ser encontrados aqui.
+O Trabalho de Conclusão de Curso (TCC) deve ser desenvolvido pelo aluno em acordo com as normas do curso ao qual o TCC será submetido e defendido.
+Dessa forma, cabe ao aluno procurar e apresentar ao LabPEC/orientador(es) as normas exigidas pelo curso associado.
 
-## Monografia
-Esta ṕasta contém todos os arquivos fontes necessários para a produção da monografia como texto principal, figuras, tabelas, etc.
+Independente das normas do curso, o LabPEC exige, como primeiro passo para a construção do TCC, a confecção pelo aluno de um Projeto de Estudos.
+O Projeto de Estudos deve seguir rigorosamente o modelo disponível e deve ser submetido e aprovado pelo(s) orientador(es) escolhidos pelo aluno dentro do quadro de professores do LabPEC.
 
-## Projeto
-Esta pasta contém todos os arquivos fontes necessários para a produção do projeto de estudos como texto principal, figuras, tabelas, etc.
+Após a aprovação do Projeto de Estudos, o aluno terá as seguintes obrigações junto ao LabPEC:
+- reuniões semanais e presenciais com o(s) orientador(es)
+- os artefatos produzidos só serão considerados quando disponibilizados no repositório Github do LabPEC
+- a produção considerada deve estar de acordo com o Projeto de Estudos e seu cronograma
+
+Caso queira apresentar um Projeto de  Estudos ao LabPEC siga as instruções contidas [aqui](ModeloProjetoEstudos/README.md)
