@@ -1,4 +1,4 @@
-# Projeto de Estudos TCC
+# Projeto de Estudos TCC-LabPEC
 
 Esta pasta contém todos os arquivos fontes necessários para a produção do Projeto de Estudos de TCC.
 Ela está dividida em três pastas: `Exemplos`, `LaTeXandOverleaf` e `WYSIWYG`.
