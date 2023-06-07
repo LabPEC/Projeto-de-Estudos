@@ -1,6 +1,6 @@
 # Projeto de Estudos IC-UFES
 
-Esta pasta contém todos os arquivos fontes necessários para a produção do Subprojeto de Pesquisa de IC da UFES do Edital 2023/2024. Caso haja um edital mais novo, todo o material aqui disponpivel deve ser conferido com o material disponível na página do [Programa Institucional de IC (PIIC)](https://prppg.ufes.br/programa-institucional-de-ic-piic).
+Esta pasta contém todos os arquivos fontes necessários para a produção do Subprojeto de Pesquisa de IC da UFES do Edital 2023/2024. Caso haja um edital mais novo, todo o material aqui disponibilizado deve ser conferido com o material disponível na página do [Programa Institucional de IC (PIIC)](https://prppg.ufes.br/programa-institucional-de-ic-piic).
 
 Esta pasta está dividida em três subpastas: `Exemplos`, `LaTeXandOverleaf` e `WYSIWYG`.
 
