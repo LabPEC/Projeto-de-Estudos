@@ -21,11 +21,11 @@ Para construir a primeira versão do seu Projeto de Estudos você deve seguir os
 
 1. Escolher como irá trabalhar `WYSIWYG` ou `LaTeXandOverleaf`
 
-2. Ler cuidadosamente o documento `ModeloProjetoEstudosTCC`
+2. Ler cuidadosamente o documento `ModeloProjetoEstudosIC_LabPEC`
 
 3. Ler os documentos `ModeloProjetoEstudos_Exemplo01.docx`, `ModeloProjetoEstudos_Exemplo01.docx` e `ModeloProjetoEstudos_Exemplo03.pdf` da pasta `Exemplos` e verificar como as instruções do documento `ModeloProjetoEstudosTCC` foram transformadas em texto.
 
-4. A partir do modelo, salvar um documento `ModeloProjetoEstudosTCC_SEUNOME`
+4. A partir do modelo, salvar um documento `ModeloProjetoEstudosIC_LabPEC_SEUNOME`
 
 5. Substituir o conteúdo instrucional pelo conteúdo do projeto sendo proposto. Para isso, você deve procurar trabalhos relacionados ao seu interesse, lê-los e inserí-los como referências no texto do seu projeto. 
    - Caso esteja trabalhando com Ciência de Dados é primordial a busca e definição de uma base de dados nessa etapa
