@@ -1,6 +1,6 @@
 # Projeto de Estudos TCC-LabPEC
 
-Esta pasta contém todos os arquivos fontes necessários para a produção do Projeto de Estudos de TCC do LabPEC.
+Esta pasta contém todos os arquivos fontes necessários para a produção do Projeto de Estudos de IC do LabPEC.
 Ela está dividida em três subpastas: `Exemplos`, `LaTeXandOverleaf` e `WYSIWYG`.
 
 - A subpasta `Exemplos` contém Projetos de Estudos escritos por colegas no passado. Servem como uma inspiração, mas sempre podem ser melhorados. Sendo assim, leia com atenção os exemplos e tente construir algo parecido e aperfeiçoado.
