@@ -12,7 +12,7 @@ Você pode instalar o LaTeX em sua máquina seguindo essas [orientações](https
 
 Ou utilizar a plataforma [Overleaf](https://www.overleaf.com) seguindo essas [orientações](https://pt.overleaf.com/learn/latex/Tutorials).
 
-Caso escolha o Overleaf, você pode usar esse [link](https://www.overleaf.com/read/gmpdsmsdhqkn) para ter acesso ao `ModeloProjetoEstudosTCC` e fazer uma cópia para você.
+Caso escolha o Overleaf, você pode usar esse [link](https://www.overleaf.com/read/mgcdbkvbbbhj) para ter acesso ao `ModeloProjetoEstudosTCC` e fazer uma cópia para você.
 
 Ou, em todo caso, utilizar o [ModeloProjetoEstudosTCC.zip](ModeloProjetoEstudosTCC.zip) disponível nessa pasta.
 
