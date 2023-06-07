@@ -7,7 +7,7 @@ Ela está dividida em três subpastas: `Exemplos`, `LaTeXandOverleaf` e `WYSIWYG
 - A subpasta `LaTeXandOverleaf` contém os caminhos e modelos para você escrever seu projeto utilizando marcações.
 - A subpasta `WYSIWYG` contém o modelo para você escrever seu projeto utilizando um editor do tipo WYSIWYG.
 
-WYSIWYG é um termo de marketing (“What you see is what you get”) para um estilo particular de processador de texto. Sistemas WYSIWYG são caracterizados por duas reivindicações principais: você digita o que deseja imprimir e o que você vê na tela ao digitar é muito próximo de como seu texto será finalmente impresso.
+WYSIWYG é um termo de marketing (“What you see is what you get”) para um estilo particular de processador de texto. Sistemas WYSIWYG são caracterizados por duas características principais: você digita no formato que deseja imprimir e o que você vê na tela ao digitar e formatar é muito próximo de como seu texto será impresso.
 
 Já em um editor LaTeX você escreve o texto simples, coloca algumas marcações (negrito, itálico, etc) e referencia tudo usando alguma palavra chave (artigos do arquivo .bib, imagens de uma pasta, tabelas, seções, subseções, etc). Depois, diz em que formato quer, por exemplo, ABNT, ou duas colunas, ou formato de TCC, e o editor formata para você.
 
