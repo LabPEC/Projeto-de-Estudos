@@ -24,7 +24,7 @@ Para construir a primeira versão do seu Subprojeto de Pesquisa você deve segui
 
 2. Ler cuidadosamente o documento `novo_modelo_de_subprojeto_edital_piic_2023-2024_media_site_0`
 
-3. Ler os documentos `ModeloProjetoEstudos_Exemplo01.docx`, `ModeloProjetoEstudos_Exemplo01.docx` e `ModeloProjetoEstudos_Exemplo03.pdf` da pasta `Exemplos` e verificar como as instruções do documento `ModeloProjetoEstudosTCC` foram transformadas em texto.
+3. Ler os documentos `ModeloProjetoEstudos_Exemplo01.docx`, `ModeloProjetoEstudos_Exemplo01.docx` e `ModeloProjetoEstudos_Exemplo03.pdf` da pasta `Exemplos` e verificar como as instruções do documento `novo_modelo_de_subprojeto_edital_piic_2023-2024_media_site_0` foram transformadas em texto.
 
 4. A partir do modelo, salvar um documento `novo_modelo_de_subprojeto_edital_piic_2023-2024_media_site_0_SEUNOME`
 
