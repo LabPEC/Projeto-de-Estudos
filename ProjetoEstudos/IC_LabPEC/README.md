@@ -1,6 +1,6 @@
 # IC-LabPEC
 
-A Iniciação Científica no LabPEC (IC-LabPEC) deve ser desenvolvido pelo aluno em acordo com o(s) orientador(es) escolhidos pelo aluno dentro do quadro de professores do LabPEC.
+A Iniciação Científica no LabPEC (IC-LabPEC) deve ser desenvolvido pelo aluno em acordo com o(s) orientador(es) escolhido(s) pelo aluno dentro do quadro de professores do LabPEC.
 
 A IC-LabPEC pode ser iniciada a qualquer momento e sua formalização acontece após a aprovação do projeto de estudos construído pelo aluno junto com o(s) futuro(s) orientador(es).
 
