@@ -5,7 +5,7 @@ A Iniciação Científica no LabPEC (IC-LabPEC) deve ser desenvolvido pelo aluno
 A IC-LabPEC pode ser iniciada a qualquer momento e sua formalização acontece após a aprovação do projeto de estudos construído pelo aluno junto com o(s) futuro(s) orientador(es).
 
 O LabPEC exige, como primeiro passo para a construção da IC-LabPEC, a confecção pelo aluno de um Projeto de Estudos.
-O Projeto de Estudos deve seguir rigorosamente o modelo disponível e deve ser submetido e aprovado pelo(s) orientador(es) escolhidos 
+O Projeto de Estudos deve seguir rigorosamente o modelo disponível e deve ser submetido e aprovado pelo(s) orientador(es) escolhido(s) 
 
 Após a aprovação do Projeto de Estudos, o aluno terá as seguintes obrigações junto ao LabPEC:
 - reuniões semanais presenciais com o(s) orientador(es)
